@@ -2,7 +2,7 @@
 title: Netlify CMS created this Article
 layout: post
 author: LW404
-date: '2020-05-23 09:52:20 +0000'
+date: '2022-10-14 09:52:20 +0000'
 thumbnail: "/assets/img/posts/hello.jpg"
 category: 教程
 summary: Demo Content using Netlify CMS

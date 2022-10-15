@@ -14,10 +14,9 @@ urls:
       url: /about
     - text: 博客
       url: /blog
-    - text: 展示
-      url: /gallery
     - text: 支持
-      url : /shop
+      url: /gallery
+
 
 
 
