@@ -8,29 +8,29 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
+    - text: 主页
       url: /
-    - text: About
+    - text: 关于
       url: /about
-    - text: Blog
+    - text: 博客
       url: /blog
-    - text: Gallery
+    - text: 展示
       url: /gallery
-    - text: Shop
+    - text: 支持
       url : /shop
-    - text: Contact
+    - text: 联系
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: LW404
+author_bio: 你好，我是LW404，欢迎你来到我的主页:D
+author_email: "liwei-@outlook.com"
+author_location: China
+author_website_url: "https://lw404-ai.github.io"
+typewrite-text: 一个人能走得多远不在于他在顺境时能走的多快，而在于他在逆境时多久能找到曾经的自己~
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
