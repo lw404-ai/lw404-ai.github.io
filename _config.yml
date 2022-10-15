@@ -18,8 +18,7 @@ urls:
       url: /gallery
     - text: 支持
       url : /shop
-    - text: 联系
-      url : /contact
+
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -51,10 +50,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: cup.png
-                college_name: CUP
+                college_name: CUPB-AI
                 college_url: https://cup.edu.cn
-                college_degree: 人工智能20本科生
-                description: 中国石油大学（北京）
+                college_degree: 人工智能20级 本科生
+                description: 中国石油大学（北京）人工智能学院
                 visibility: true
 
 # Projects
@@ -75,8 +74,7 @@ behance_username: johndoe
 instagram_username: johndoe
 medium_username: johndoe
 telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
