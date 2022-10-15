@@ -1,5 +1,5 @@
 ---
-title: Styleguide
+title: 风格指南
 layout: page
 permalink: /styleguide/
 ---

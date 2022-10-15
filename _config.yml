@@ -66,14 +66,14 @@ author_project_details:
               
 
 # social links
-twitter_username: johndoe
+twitter_username: 
 github_username:  lw404-ai
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
+facebook_username: 
+linkedin_username: 
+behance_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
@@ -89,7 +89,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: liwei-@outlook.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
