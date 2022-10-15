@@ -4,7 +4,7 @@ layout: post
 author: LW404
 date: '2020-05-23 09:52:20 +0000'
 thumbnail: "/assets/img/posts/hello.jpg"
-category: jekyll
+category: 教程
 summary: Demo Content using Netlify CMS
 keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to
   use netlify cms
