@@ -1,5 +1,5 @@
 title: LW404
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: AI Stu of CUPB
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: LW404
-author_bio: 你好，我是LW404，欢迎你来到我的主页:D
+author_bio: 你好，我是LW404，欢迎你来到我的主页 :D
 author_email: "liwei-@outlook.com"
 author_location: China
 author_website_url: "https://lw404-ai.github.io"
-typewrite-text: 一个人能走得多远不在于他在顺境时能走的多快，而在于他在逆境时多久能找到曾经的自己~
+typewrite-text: 一个人能走得多远不在于他在顺境时能走的多快，而在于他在逆境时多久能找到曾经的自己~ :D
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -51,8 +51,8 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
+                college_name: CUP
+                college_url: https://cup.edu.cn
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
@@ -107,7 +107,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
